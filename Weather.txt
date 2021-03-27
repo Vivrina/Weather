@@ -1,0 +1,7 @@
+Highest temperature (11.710529 °C) was 2021.03.13 in 14:00
+The lowest humidity (31.0 %) was 2021.03.20 in 17:00
+The highest wind speed (47.194336 km/h) was 2021.03.13 in 16:00
+Average air temperature: 4.399330706864583 °C 
+Average humidity: 71.078125 % 
+Average wind speed: 17.968678919635412 km/h 
+Most frequent destination: West
